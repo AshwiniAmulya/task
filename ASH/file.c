@@ -2,4 +2,5 @@
 int main() {
 	printf("Hello World!\n");
 	printf("ASHWINI HR\n");
+	printf("AMITY UNIVERSITY\n")
 }
