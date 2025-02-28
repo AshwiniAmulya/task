@@ -10,3 +10,9 @@ break;
 case2:
 printf("MONDAY/n");
 break;
+case3:
+printf("TUESDAY/n");
+break;
+case4:
+printf("WEDNESDAY/n");
+break;
