@@ -22,3 +22,11 @@ break;
 case6:
 printf("FRIDAY/n");
 break;
+case7:
+printf("SATURDAY/n");
+break;
+deafault:
+printf("invaild input please enter a number between 1 and 7./n");
+	}
+	return 0;
+}
