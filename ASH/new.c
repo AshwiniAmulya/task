@@ -16,3 +16,9 @@ break;
 case4:
 printf("WEDNESDAY/n");
 break;
+case5:
+printf("THRUSDAY/n");
+break;
+case6:
+printf("FRIDAY/n");
+break;
