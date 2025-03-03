@@ -10,4 +10,11 @@ int main() {
 			printf("grade:B\n");
 		}else if (marks>=50) {
 			printf("grade:C\n");
+	        }else {
+			printf("grade:F\n");
 		}
+	}else{
+		printf("invaild marks entered.\n");
+	}
+	return 0;
+}
