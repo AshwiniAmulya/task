@@ -6,4 +6,6 @@ int main() {
 	if (marks>=0 && marks<=100) {
 		if(marks>=85){
 			printf("grade:A\n");
+		}else if (marks>=70){
+			printf("grade:B\n");
 		}
