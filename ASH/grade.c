@@ -8,4 +8,6 @@ int main() {
 			printf("grade:A\n");
 		}else if (marks>=70){
 			printf("grade:B\n");
+		}else if (marks>=50) {
+			printf("grade:C\n");
 		}
