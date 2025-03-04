@@ -16,3 +16,8 @@ for(int i=0;i<rows;i++){
 		scanf("%d",&B[i][j]);
 	}
 }
+for(int i=0;i<rows;i++) {
+	for(int j=0;j<cols;j++){
+		sum[i][j]=A[i][j]+B[i][j];
+	}
+}
