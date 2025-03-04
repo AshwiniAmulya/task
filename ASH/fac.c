@@ -10,3 +10,7 @@ int main() {
 		for(int i=1;i<=num;i++){
 			factorialm *=i;
 		}
+		printf("Factorial of %d is:&d\n",num,factorial);
+		return 0;
+	}
+}
