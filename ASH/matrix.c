@@ -9,4 +9,10 @@ int main() {
 	for(int j=0;j<cols;j++){
 		scanf("%d",&A[i][j]);
 	}
+} 
+printf("Enter elements of matrix B:\n");
+for(int i=0;i<rows;i++){
+	for(int j=0;j<cols;j++){
+		scanf("%d",&B[i][j]);
+	}
 }
