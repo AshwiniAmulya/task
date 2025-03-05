@@ -26,4 +26,8 @@
 <th colspan="2">total price</th>
 <th>$2025</th>
 </tr>
+<tr>
+<th>bluetooth</th>
+</tr>
 </table>
+
