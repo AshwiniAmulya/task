@@ -18,3 +18,12 @@
 <th rowspan="2">accessories</th>
 <th>$40</th>
 </tr>
+<tr>
+<th>Headphone</th>
+<th>$200</th>
+</tr>
+<tr>
+<th colspan="2">total price</th>
+<th>$2025</th>
+</tr>
+</table>
