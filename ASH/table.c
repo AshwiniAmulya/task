@@ -13,3 +13,8 @@
 <th>phone</th>
 <th>$800</th>
 </tr>
+<tr>
+<th>Merged</th>
+<th rowspan="2">accessories</th>
+<th>$40</th>
+</tr>
