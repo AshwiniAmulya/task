@@ -1,4 +1,4 @@
-<table style="width:100%" border="2">
+i<table style="width:100%" border="2">
 <tr>
 <th>Product</th>
 <th>Category</th>
@@ -25,5 +25,7 @@
 <tr>
 <th colspan="2">total price</th>
 <th>$2025</th>
+<tr>
+<th>bluetooth</th>
 </tr>
 </table>
