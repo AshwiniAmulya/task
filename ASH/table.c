@@ -25,6 +25,7 @@ i<table style="width:100%" border="2">
 <tr>
 <th colspan="2">total price</th>
 <th>$2025</th>
+</tr>i
 <tr>
 <th>bluetooth</th>
 </tr>
